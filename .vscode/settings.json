@@ -1,0 +1,13 @@
+{
+    "ros.distro": "jazzy",
+    "python.autoComplete.extraPaths": [
+        "/home/simon/04_Coding/Robotics_Projects_dir/RC_Car_Mk1_ws/install/rc_car_description/lib/python3.12/site-packages",
+        "/home/simon/04_Coding/Robotics_Projects_dir/RC_Car_Mk1_ws/install/rc_car_bringup/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/simon/04_Coding/Robotics_Projects_dir/RC_Car_Mk1_ws/install/rc_car_description/lib/python3.12/site-packages",
+        "/home/simon/04_Coding/Robotics_Projects_dir/RC_Car_Mk1_ws/install/rc_car_bringup/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
